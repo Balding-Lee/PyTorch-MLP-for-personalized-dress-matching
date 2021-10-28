@@ -1,0 +1,3 @@
+layer1: test accuracy 0.756522, test loss 0.188675
+layer2: test accuracy 0.766798, test loss 0.186148
+layer3: test accuracy 0.739130, test loss 0.194097
